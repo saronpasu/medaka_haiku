@@ -1,0 +1,1 @@
+this is chatterbot medaka for Hatena::Haiku(japanese micro-blog).
